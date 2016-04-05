@@ -30,7 +30,6 @@ public class MainPanel extends JPanel {
     public Cell[][] getCells() {
 	return _cells;
     }
-
 	//Deleted convertToInt() method, as it was not necessary
 
 	//Changed this method to public, so that I can test it in a separate file
